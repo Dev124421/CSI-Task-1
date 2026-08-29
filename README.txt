@@ -1,3 +1,8 @@
+Namwe - Dev Bansal
+Student No. - 2510030
+Branch - CSE
+Domain - Backend
+
 SEKIRO GAME ARENA
 ==================
 
